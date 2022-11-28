@@ -1,1 +1,1 @@
-"# Spherical-Scan-Generator" 
+# Spherical-Scan-Generator
